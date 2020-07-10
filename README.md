@@ -98,3 +98,29 @@ Not Employed, not looking | 1
 * [Movement Recorder Demo](https://youtu.be/q2mFrdUyJYc)
 * [ASL only project summary](https://youtu.be/mknaU4TyWlU) for partners and participants
 * Participant Experience (coming soon!)
+
+
+
+
+
+
+# Hardware Requirements for Recording
+## Machine
+* Windows 10 April 2018 release (x64) or later
+* Seventh Gen Intel® CoreTM i5 Processor (Quad Core 2.4 GHz or faster)
+* 4 GB Memory
+* NVIDIA GEFORCE GTX 1070 +
+* Dedicated USB3 port
+## Camera
+**Microsoft Azure Kinect DK** (depth sensor / color camera) was utilized for collection of the movement data. [Github documentation](https://github.com/microsoft/Azure-Kinect-Sensor-SDK)
+
+# About linedanceAI
+linedanceAI’s patented deep-learning technology generates insights from movements of human body joints. The technology performs mili-second segmentation analysis, analyzes similarities, and provides comparison analysis over any human movement data. Platform access provides enterprise users an ability to record human movement, manage data and analyze data to generate new feature sets in security, sports applications or accessibility domains.
+The linedanceAI team is based in Dallas, Texas. info@linedanceAI.com
+
+# Citations
+Lexical content was curated from internal ASL linguist along with support from online resources.
+
+ASL SignBank Julie A. Hochgesang, Onno Crasborn, and Diane Lillo-Martin. (2017-2020) ASL Signbank. New Haven, CT: Haskins Lab, Yale University. https://aslsignbank.haskins.yale.edu/ - automatic!
+
+Access and use of linedanceAI platform with the ASL dataset will be available Soon within July'20
