@@ -92,3 +92,9 @@ Not Employed, not looking | 1
 * _Smitha Hanumantha_, Project Management Lead, Dallas: [LinkedIn Profile](https://www.linkedin.com/in/smithahanumantha/)
 * _Trent Mora_, Project and Technical Support, Austin: [LinkedIn Profile](https://www.linkedin.com/in/trent-mora/)
 * _Ryan Hutchison_, Strategic Community Consultant, Austin: [LinkedIn Profile](https://www.linkedin.com/in/ryandhutchison/)
+
+# Video Documentation
+* [Project Introduction](https://youtu.be/tIbBfb8B1lM)
+* [Movement Recorder Demo](https://youtu.be/q2mFrdUyJYc)
+* [ASL only project summary](https://youtu.be/mknaU4TyWlU) for partners and participants
+* Participant Experience (coming soon!)
