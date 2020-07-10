@@ -121,6 +121,6 @@ The linedanceAI team is based in Dallas, Texas. info@linedanceAI.com
 # Citations
 Lexical content was curated from internal ASL linguist along with support from online resources.
 
-ASL SignBank Julie A. Hochgesang, Onno Crasborn, and Diane Lillo-Martin. (2017-2020) ASL Signbank. New Haven, CT: Haskins Lab, Yale University. https://aslsignbank.haskins.yale.edu/ - automatic!
+ASL SignBank Julie A. Hochgesang, Onno Crasborn, and Diane Lillo-Martin. (2017-2020) ASL Signbank. New Haven, CT: Haskins Lab, Yale University. https://aslsignbank.haskins.yale.edu/
 
-Access and use of linedanceAI platform with the ASL dataset will be available Soon within July'20
+**Access and use of linedanceAI platform with the ASL dataset will be available Soon within July'20**
