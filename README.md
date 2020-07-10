@@ -14,20 +14,71 @@ The Project KinTrans dataset contains 2820 unique sign movements, each sign move
 
 The complete release of the dataset on July 31, 2020 will include all signs with skeletal viewer; a query feature by location, context, English gloss, and lexical class, side by side to analysis features and learning models.
 
-# Dedicated USA Partners:
+# Dedicated USA Partners
 
 ## Washington DC
 ### ![The ASL APP](https://github.com/linedanceAI/Project-KinTrans/blob/master/Partners-Logos/TheASLApp.png?raw=true)
-We are an app publishing and creative productions company that specializes in developing community and educational resources related to American Sign Language and Deaf Culture. Matt Malzkuhn, Co-Founder Ink & Salt LLC, [contact them here](mailto:matt@theaslapp.com). [Visit The ASL App](http://www.theaslapp.com/)
+We are an app publishing and creative productions company that specializes in developing community and educational resources related to American Sign Language and Deaf Culture. Matt Malzkuhn, Co-Founder Ink & Salt LLC, [contact us here](mailto:matt@theaslapp.com). [Visit The ASL App](http://www.theaslapp.com/)
 
 ## Colorado
 ### ![Ktquiet LLC](https://github.com/linedanceAI/Project-KinTrans/blob/master/Partners-Logos/KtquietLLC.png?raw=true)
-Ktquiet LLC is a Deaf-owned boutique consulting firm specializing in tailoring solutions to strengthen and grow organizations. [Contact them Here](mailto:ktquiet@gmail.com)
+Ktquiet LLC is a Deaf-owned boutique consulting firm specializing in tailoring solutions to strengthen and grow organizations. [Contact us Here](mailto:ktquiet@gmail.com)
 
 ## California
 ### ![DCS](https://github.com/linedanceAI/Project-KinTrans/blob/master/Partners-Logos/DCS.png?raw=true)
-DCS is an “…of, by, and for Deaf and Hard-of-Hearing” agency. DCS’ mission centers on meeting the social, economic, educational, and behavioral health needs of the Deaf and Hard of Hearing, DeafBlind and Late Deafened Community. [Visit them here](https://deafcommunityservices.org/)
+DCS is an “…of, by, and for Deaf and Hard-of-Hearing” agency. DCS’ mission centers on meeting the social, economic, educational, and behavioral health needs of the Deaf and Hard of Hearing, DeafBlind and Late Deafened Community. [Visit us here](https://deafcommunityservices.org/)
 
 ## Texas
 ### ![ChileMarketing](https://github.com/linedanceAI/Project-KinTrans/blob/master/Partners-Logos/ChileMarketing.png?raw=true)
-Deaf-owned marketing and web development agency. [Visit them here](https://chilmarketing.com/)
+Deaf-owned marketing and web development agency. [Visit us here](https://chilmarketing.com/)
+
+# Demographic representation: 28 Participants reporting
+## Location and Partcipants
+location | amount
+-------- | -------
+Washington DC | 14
+Colorado | 4
+California | 4
+## Race
+race | amount
+---- | ------
+African American | 1
+Mestizo | 5
+South Asian | 1
+White | 20
+Race Not List | 1
+## Educational Level
+education | amount
+--------- | ------
+High School/GED | 3
+2 Year College | 3
+4 Year University | 10
+Masters | 9
+Ph.D. | 3
+## Age
+age range | amount
+--------- | ------
+18-25 | 10
+26-30 | 2
+31-35 | 6
+36-40 | 6
+41-45 | 2
+51+ | 2
+## Gender
+gender | amount
+------ | ------
+Female | 13
+Male | 15
+## Hand Dominance
+dominance | amount
+--------- | ------
+Right | 26
+Left | 2
+## Employment Status
+status | amount
+------ | ------
+Student | 4
+Employed | 17
+self-Employed | 4
+Not Employed, looking | 2
+Not Employed, not looking | 1
