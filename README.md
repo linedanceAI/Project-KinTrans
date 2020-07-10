@@ -29,5 +29,5 @@ Ktquiet LLC is a Deaf-owned boutique consulting firm specializing in tailoring s
 DCS is an “…of, by, and for Deaf and Hard-of-Hearing” agency. DCS’ mission centers on meeting the social, economic, educational, and behavioral health needs of the Deaf and Hard of Hearing, DeafBlind and Late Deafened Community. [Visit them here](https://deafcommunityservices.org/)
 
 4. **Texas**
-![ChileMarketing](https://github.com/linedanceAI/Project-KinTrans/blob/master/Partners-Logos/chilemarketing.png?raw=true)
+![ChileMarketing](https://github.com/linedanceAI/Project-KinTrans/blob/master/Partners-Logos/ChileMarketing.png?raw=true)
 Deaf-owned marketing and web development agency. [Visit them here](https://chilmarketing.com/)
