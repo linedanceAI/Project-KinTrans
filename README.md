@@ -17,7 +17,7 @@ The complete release of the dataset on July 31, 2020 will include all signs with
 # Dedicated USA Partners:
 
 1. **Washington DC**
-![The ASL APP](/PartnersLogos/TheASLApp.png)
+![The ASL APP](./PartnersLogos/TheASLApp.png)
 We are an app publishing and creative productions company that specializes in developing community and educational resources related to American Sign Language and Deaf Culture. Matt Malzkuhn, Co-Founder Ink & Salt LLC, [contact them here](mailto:matt@theaslapp.com). [Visit The ASL App](http://www.theaslapp.com/)
 
 2. **Colorado**
