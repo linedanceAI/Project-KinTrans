@@ -87,3 +87,8 @@ Not Employed, not looking | 1
 * The team was responsible for locating potential Deaf partners from around the USA, securing contracts, managing partner and participant engagement, technical training/onboarding, video documentation, and project closure activities. Final partners were selected from Washington DC, Colorado, California and Texas.
 * The data recording project originally began before COVID-19 and was designed to take place in groups. As COVID-19 evolved, participants received individual hardware systems (GPU-enabled laptop and Microsoft Azure Kinect DK) to use at their homes.
 * Participants also contributed feedback for the new movement recording software since a more touch-less experience was required as they worked outside of the group setting to record signs. You can see the final recorder version in the [Movement Recorder Demo](https://youtu.be/q2mFrdUyJYc) video.
+
+# Dedicated Project Management Team
+* Smitha Hanumantha, Project Management Lead, Dallas: [LinkedIn Profile](https://www.linkedin.com/in/smithahanumantha/)
+* Trent Mora, Project and Technical Support, Austin: [LinkedIn Profile](https://www.linkedin.com/in/trent-mora/)
+* Ryan Hutchison, Strategic Community Consultant, Austin: [LinkedIn Profile](https://www.linkedin.com/in/ryandhutchison/)
