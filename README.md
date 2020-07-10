@@ -17,17 +17,17 @@ The complete release of the dataset on July 31, 2020 will include all signs with
 # Dedicated USA Partners:
 
 1. **Washington DC**
-![The ASL APP](./PartnersLogos/TheASLApp.png)
+![The ASL APP](https://github.com/linedanceAI/Project-KinTrans/tree/master/Partners-LogosTheASLApp.png)
 We are an app publishing and creative productions company that specializes in developing community and educational resources related to American Sign Language and Deaf Culture. Matt Malzkuhn, Co-Founder Ink & Salt LLC, [contact them here](mailto:matt@theaslapp.com). [Visit The ASL App](http://www.theaslapp.com/)
 
 2. **Colorado**
-![Ktquiet LLC](/PartnersLogos/KtquietLLC.png)
+![Ktquiet LLC](https://github.com/linedanceAI/Project-KinTrans/tree/master/Partners-LogosKtquietLLC.png)
 Ktquiet LLC is a Deaf-owned boutique consulting firm specializing in tailoring solutions to strengthen and grow organizations. [Contact them Here](mailto:ktquiet@gmail.com)
 
 3. **California**
-![DCS](/PartnersLogos/DCS.png)
+![DCS](https://github.com/linedanceAI/Project-KinTrans/tree/master/Partners-LogosDCS.png)
 DCS is an “…of, by, and for Deaf and Hard-of-Hearing” agency. DCS’ mission centers on meeting the social, economic, educational, and behavioral health needs of the Deaf and Hard of Hearing, DeafBlind and Late Deafened Community. [Visit them here](https://deafcommunityservices.org/)
 
 4. **Texas**
-![ChileMarketing](/PartnersLogos/chilemarketing.png)
+![ChileMarketing](https://github.com/linedanceAI/Project-KinTrans/tree/master/Partners-Logos/chilemarketing.png)
 Deaf-owned marketing and web development agency. [Visit them here](https://chilmarketing.com/)
