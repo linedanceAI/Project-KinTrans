@@ -89,6 +89,6 @@ Not Employed, not looking | 1
 * Participants also contributed feedback for the new movement recording software since a more touch-less experience was required as they worked outside of the group setting to record signs. You can see the final recorder version in the [Movement Recorder Demo](https://youtu.be/q2mFrdUyJYc) video.
 
 # Dedicated Project Management Team
-* Smitha Hanumantha, Project Management Lead, Dallas: [LinkedIn Profile](https://www.linkedin.com/in/smithahanumantha/)
-* Trent Mora, Project and Technical Support, Austin: [LinkedIn Profile](https://www.linkedin.com/in/trent-mora/)
-* Ryan Hutchison, Strategic Community Consultant, Austin: [LinkedIn Profile](https://www.linkedin.com/in/ryandhutchison/)
+* _Smitha Hanumantha_, Project Management Lead, Dallas: [LinkedIn Profile](https://www.linkedin.com/in/smithahanumantha/)
+* _Trent Mora_, Project and Technical Support, Austin: [LinkedIn Profile](https://www.linkedin.com/in/trent-mora/)
+* _Ryan Hutchison_, Strategic Community Consultant, Austin: [LinkedIn Profile](https://www.linkedin.com/in/ryandhutchison/)
