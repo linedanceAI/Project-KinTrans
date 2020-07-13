@@ -4,7 +4,7 @@ linedanceAI is leveraging its machine-learning platform to the deploy the first,
 
 Sign language is not only body movement, but also hand movement and facial movements communicating emotion, and meaning. This 3D body movement dataset of sign movements is complementary to these other technology stacks.
 
-For the remainder of 2020, we seek the collaboration of research and engineering teams interested in advancing sign-technology for the NEW era of accessibility that is fast approaching. The dataset is available to view, search and analyze through an End User Licensing Agreement (EULA) found on the sign-up page.  
+For the remainder of 2020, we seek the collaboration of research and engineering teams interested in advancing sign-technology for the NEW era of accessibility that is fast approaching. The dataset is available to view, search and analyze through an End User Licensing Agreement (EULA) found on the sign-up page at www.kintrans.com.  
 
 # About the ASL Dataset 
 
@@ -84,9 +84,9 @@ Not Employed, looking | 2
 Not Employed, not looking | 1
 
 # Data Collection Methodology
-* The team was responsible for locating potential Deaf partners from around the USA, securing contracts, managing partner and participant engagement, technical training/onboarding, video documentation, and project closure activities. Final partners were selected from Washington DC, Colorado, California and Texas.
+* The project team was responsible for locating potential Deaf partners from around the USA, securing contracts, managing partner and participant engagement, technical training/onboarding, video documentation, and project closure activities. Final partners were selected from Washington DC, Colorado, California and Texas.
 * The data recording project originally began before COVID-19 and was designed to take place in groups. As COVID-19 evolved, participants received individual hardware systems (GPU-enabled laptop and Microsoft Azure Kinect DK) to use at their homes.
-* Participants also contributed feedback for the new movement recording software since a more touch-less experience was required as they worked outside of the group setting to record signs. You can see the final recorder version in the [Movement Recorder Demo](https://youtu.be/q2mFrdUyJYc) video.
+* Participants also contributed feedback for an updated movement recording software since they were working remote and often by themselves. The recorder needed a more touch-less experience for efficiency and ease of use. You can see the final recorder version in the [Movement Recorder Demo](https://youtu.be/q2mFrdUyJYc) video.
 
 # Dedicated Project Management Team
 * _Smitha Hanumantha_, Project Management Lead, Dallas: [LinkedIn Profile](https://www.linkedin.com/in/smithahanumantha/)
@@ -123,4 +123,4 @@ Lexical content was curated from internal ASL linguist along with support from o
 
 ASL SignBank Julie A. Hochgesang, Onno Crasborn, and Diane Lillo-Martin. (2017-2020) ASL Signbank. New Haven, CT: Haskins Lab, Yale University. https://aslsignbank.haskins.yale.edu/
 
-**Access and use of linedanceAI platform with the ASL dataset will be available soon within July'20**
+**Access and use of linedanceAI platform with the ASL dataset will be available in July 2020**
