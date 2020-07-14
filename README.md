@@ -4,7 +4,7 @@ linedanceAI is leveraging its machine-learning platform to the deploy the first,
 
 Sign language is not only body movement, but also hand movement and facial movements communicating emotion, and meaning. This 3D body movement dataset of sign movements is complementary to these other technology stacks.
 
-For the remainder of 2020, we seek the collaboration of research and engineering teams interested in advancing sign-technology for the NEW era of accessibility that is fast approaching. The dataset is available to view, search and analyze through an End User Licensing Agreement (EULA) end of July 2020 at www.kintrans.com.  Feel free to send us a message to connect directly to learn more in advance. 
+For the remainder of 2020, we seek the collaboration of research and engineering teams interested in advancing sign-technology for the NEW era of accessibility that is fast approaching. The dataset is available to view, search and analyze through an End User Licensing Agreement (EULA) end of July 2020 at www.kintrans.com.  Connect directly to learn more in advance info@linedanceAI.com. 
 
 # About the ASL Dataset 
 
