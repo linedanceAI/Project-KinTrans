@@ -39,6 +39,7 @@ location | amount
 Washington DC | 14
 Colorado | 4
 California | 4
+Texas | 6
 ## Race
 race | amount
 ---- | ------
