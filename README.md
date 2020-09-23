@@ -12,7 +12,7 @@ This project was sponsored from July 2019-June 2020 through a grant from [Micros
 
 The Project KinTrans dataset contains 2820 unique sign movements, each sign movement with approximately 190 samples. In total, ~ 600,000 data samples were collected. The samples have been sourced from exclusively native ASL signers in Washington DC, Colorado, California and Texas and represent a wide variety of ‘style’ or ‘dialect. 
 
-The complete release of the dataset on July 31, 2020 will include all signs with skeletal viewer; a query feature by location, context, English gloss, and lexical class, side by side to analysis features and learning models.
+The complete release of the dataset in October 2020 will include all signs with skeletal viewer; a query feature by location, context, English gloss, and lexical class, side by side to analysis features and learning models.
 
 # Dedicated USA Partners
 
