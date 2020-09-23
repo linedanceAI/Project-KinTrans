@@ -4,7 +4,7 @@ linedanceAI is leveraging its machine-learning platform to the deploy the first,
 
 Sign language is not only body movement, but also hand movement and facial movements communicating emotion, and meaning. This 3D body movement dataset of sign movements is complementary to these other technology stacks.
 
-For the remainder of 2020, we seek the collaboration of research and engineering teams interested in advancing sign-technology for the NEW era of accessibility that is fast approaching. The dataset is available to view, search and analyze through an End User Licensing Agreement (EULA) end of July 2020 at www.kintrans.com.  Connect directly to learn more in advance info@linedanceAI.com. 
+For the remainder of 2020, we seek the collaboration of research and engineering teams interested in advancing sign-technology for the NEW era of accessibility that is fast approaching. The dataset is available to view, search and analyze through an End User Licensing Agreement (EULA) October 2020 at www.kintrans.com.  Connect directly to learn more in advance info@linedanceAI.com. 
 
 # About the ASL Dataset 
 
@@ -100,9 +100,8 @@ Not Employed, not looking | 1
 * [ASL only project summary](https://youtu.be/mknaU4TyWlU) for Deaf partners and participants
 * [Participant Experience](https://youtu.be/y0Pg9sJI3X4)
 
-
-
-
+# Special Thanks 
+* ADLINK Technology Inc is a special hardware partner to Project KinTrans. They have provided low footprint, rugged industrial CPUs embedded with powerful industrial GPU from NVDIA for data capture and rapid testing. The DLAP 3200 is a real AI workhorse. [ADLINK Website](https://www.adlinktech.com/en/index) 
 
 
 # Hardware Requirements for Recording
@@ -110,7 +109,7 @@ Not Employed, not looking | 1
 * Windows 10 April 2018 release (x64) or later
 * Seventh Gen Intel® CoreTM i5 Processor (Quad Core 2.4 GHz or faster)
 * 4 GB Memory
-* NVIDIA GEFORCE GTX 1070 +
+* NVIDIA GEFORCE GTX 1070 + or industrial grade equivalent found in ADLINK DLAP 3200.
 * Dedicated USB3 port
 ## Camera
 **Microsoft Azure Kinect DK** (depth sensor / color camera) was utilized for collection of the movement data. [Github documentation](https://github.com/microsoft/Azure-Kinect-Sensor-SDK)
@@ -124,4 +123,4 @@ Lexical content was curated from internal ASL linguist along with support from o
 
 ASL SignBank Julie A. Hochgesang, Onno Crasborn, and Diane Lillo-Martin. (2017-2020) ASL Signbank. New Haven, CT: Haskins Lab, Yale University. https://aslsignbank.haskins.yale.edu/
 
-**Access and use of linedanceAI platform with the ASL dataset will be available in July 2020**
+**Access and use of linedanceAI platform with the ASL dataset will be available in October 2020**
