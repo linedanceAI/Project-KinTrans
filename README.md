@@ -4,7 +4,7 @@ linedanceAI is leveraging its machine-learning platform to the deploy the first,
 
 Sign language is not only body movement, but also hand movement and facial movements communicating emotion, and meaning. This 3D body movement dataset of sign movements is complementary to these other technology stacks.
 
-For the remainder of 2020, we seek the collaboration of research and engineering teams interested in advancing sign-technology for the NEW era of accessibility that is fast approaching. The dataset is available to view, search and analyze through an End User Licensing Agreement (EULA) October 2020 at www.kintrans.com.  Connect directly to learn more in advance info@linedanceAI.com. 
+We seek the collaboration of research and engineering teams interested in advancing sign-technology for the NEW era of accessibility that is fast approaching. The dataset is available to view, search and analyze through an End User Licensing Agreement (EULA) March 2021 at www.kintrans.com.  Connect directly to learn more in advance info@linedanceAI.com. 
 
 # About the ASL Dataset 
 
@@ -12,7 +12,7 @@ This project was sponsored from July 2019-June 2020 through a grant from [Micros
 
 The Project KinTrans dataset contains 2820 unique sign movements, each sign movement with approximately 190 samples. In total, ~ 600,000 data samples were collected. The samples have been sourced from exclusively native ASL signers in Washington DC, Colorado, California and Texas and represent a wide variety of ‘style’ or ‘dialect. 
 
-The complete release of the dataset in December 2020 will include all signs with skeletal viewer; a query feature by location, context, English gloss, and lexical class, side by side to analysis features and learning models.
+The complete release of the dataset in March 2021 will include feature data of all signs with skeletal viewer; a query feature by location, context, English gloss, and lexical class, side by side to analysis features and learning models.
 
 # Dedicated USA Partners
 
@@ -115,7 +115,7 @@ Not Employed, not looking | 1
 **Microsoft Azure Kinect DK** (depth sensor / color camera) was utilized for collection of the movement data. [Github documentation](https://github.com/microsoft/Azure-Kinect-Sensor-SDK)
 
 # About linedanceAI
-linedanceAI’s patented deep-learning technology generates insights from movements of human body joints. The technology performs mili-second segmentation analysis, analyzes similarities, and provides comparison analysis over any human movement data. Platform access provides enterprise users an ability to record human movement, manage data and analyze data to generate new feature sets in security, sports applications or accessibility domains.
+linedanceAI’s patented deep-learning technology generates insights from movements of human body joints. The technology performs mili-second segmentation analysis, analyzes similarities, and provides comparison analysis over any human movement data. Platform access provides enterprise users human movement feature data, manage custom data and analyze data to generate new feature sets in security, sports applications or accessibility domains.
 The linedanceAI team is based in Dallas, Texas. info@linedanceAI.com
 
 # Citations
@@ -123,4 +123,4 @@ Lexical content was curated from internal ASL linguist along with support from o
 
 ASL SignBank Julie A. Hochgesang, Onno Crasborn, and Diane Lillo-Martin. (2017-2020) ASL Signbank. New Haven, CT: Haskins Lab, Yale University. https://aslsignbank.haskins.yale.edu/
 
-**Access and use of linedanceAI platform with the ASL dataset will be available in December 2020**
+**Access and use of linedanceAI platform with the ASL dataset will be available in March 2021**
