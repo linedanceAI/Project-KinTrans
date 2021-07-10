@@ -12,7 +12,7 @@ This project was sponsored from July 2019-June 2020 through a grant from [Micros
 
 The Project KinTrans dataset contains 2820 unique sign movements, each sign movement with approximately 190 samples. In total, ~ 600,000 data samples were collected. The samples have been sourced from exclusively native ASL signers in Washington DC, Colorado, California and Texas and represent a wide variety of ‘style’ or ‘dialect. 
 
-The complete release of the dataset in March 2021 will include feature data of all signs with skeletal viewer; a query feature by location, context, English gloss, and lexical class, side by side to analysis features and learning models.
+The complete release of the dataset in July 2021 will include feature data of all signs with skeletal viewer; a query feature by location, context, English gloss, and lexical class, side by side to analysis features and learning models.
 
 # Dedicated USA Partners
 
@@ -123,4 +123,4 @@ Lexical content was curated from internal ASL linguist along with support from o
 
 ASL SignBank Julie A. Hochgesang, Onno Crasborn, and Diane Lillo-Martin. (2017-2020) ASL Signbank. New Haven, CT: Haskins Lab, Yale University. https://aslsignbank.haskins.yale.edu/
 
-**Access and use of linedanceAI platform with the ASL dataset will be available in March 2021**
+**Access and use of linedanceAI platform with the ASL dataset will be available in July 2021**
