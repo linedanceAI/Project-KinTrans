@@ -4,11 +4,9 @@ linedanceAI is leveraging its machine-learning platform to the deploy the first,
 
 Sign language is not only body movement, but also hand movement and facial movements communicating emotion, and meaning. This 3D body movement dataset of sign movements is complementary to these other technology stacks.
 
-We seek the collaboration of research and engineering teams interested in advancing sign-technology for the NEW era of accessibility that is fast approaching. The dataset is available to view, search and analyze through an End User Licensing Agreement (EULA) July 2021 at www.kintrans.com.  Connect directly to learn more in advance info@linedanceAI.com. 
+We seek the collaboration of research and engineering teams interested in advancing sign-technology for the NEW era of accessibility that is fast approaching. The dataset is available to view, search and analyze through an End User Licensing Agreement (EULA). Connect directly to learn more in advance info@linedanceAI.com. 
 
 # About the ASL Dataset 
-
-This project was sponsored from July 2019-June 2020 through a grant from [Microsoft AI for Accessibility](https://www.microsoft.com/en-us/ai/ai-for-accessibility). AI for Accessibility is a program aimed at harnessing the power of AI to amplify human capability for the more than one billion people around the world with disabilities. Microsoft does this with grants, investments of technology and expertise. Also, these applications are incorporated into platform level services, working with partners to bring the innovations to market. 
 
 The Project KinTrans dataset contains 2820 unique sign movements, each sign movement with approximately 190 samples. In total, ~ 600,000 data samples were collected. The samples have been sourced from exclusively native ASL signers in Washington DC, Colorado, California and Texas and represent a wide variety of ‘style’ or ‘dialect. 
 
@@ -123,4 +121,3 @@ Lexical content was curated from internal ASL linguist along with support from o
 
 ASL SignBank Julie A. Hochgesang, Onno Crasborn, and Diane Lillo-Martin. (2017-2020) ASL Signbank. New Haven, CT: Haskins Lab, Yale University. https://aslsignbank.haskins.yale.edu/
 
-**Access and use of linedanceAI platform with the ASL dataset will be available in July 2021**
